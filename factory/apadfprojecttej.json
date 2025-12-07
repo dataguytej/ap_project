@@ -1,0 +1,9 @@
+{
+	"name": "apadfprojecttej",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7453cb4e-0825-4934-b9fd-89b4b78cf970",
+		"tenantId": "264f001b-e6f0-4eb1-9ce2-37c1cf712e58"
+	}
+}
