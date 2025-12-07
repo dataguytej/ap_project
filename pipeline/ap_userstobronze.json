@@ -1,6 +1,23 @@
 {
 	"name": "ap_userstobronze",
 	"properties": {
+		"parameters": {
+			"p_configid": {
+				"type": "int",
+				"defaultValue": 1
+			}
+		},
+		"variables": {
+			"v_lastwatermark": {
+				"type": "String"
+			},
+			"v_rundate": {
+				"type": "String"
+			},
+			"v_query": {
+				"type": "String"
+			}
+		},
 		"annotations": []
 	}
 }
